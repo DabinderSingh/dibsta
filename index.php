@@ -1,6 +1,6 @@
 <?php
 /**
- * Application entry point
+ * Application entry 
  * Example - run a particular store or website:
  * --------------------------------------------
  * require __DIR__ . '/app/bootstrap.php';
