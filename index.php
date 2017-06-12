@@ -3,7 +3,6 @@
  * Application entry 
  * Example - run a particular store or website:
  * --------------------------------------------
- * 
  * $params = $_SERVER;
  * $params[\Magento\Store\Model\StoreManager::PARAM_RUN_CODE] = 'website2';
  * $params[\Magento\Store\Model\StoreManager::PARAM_RUN_TYPE] = 'website';
